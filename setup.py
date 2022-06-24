@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='log',
+    name='lg',
     version="0.0.1",
     description='Library for loggin in Python',
     author='Chris Kamphuis',
